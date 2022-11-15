@@ -6,3 +6,5 @@ Dana would like a more in-depth analysis of UFO sightings, she is wanting to add
   - State
   - Country
   - Shape
+## Results
+How to perform a search

@@ -7,4 +7,4 @@ Dana would like a more in-depth analysis of UFO sightings, she is wanting to add
   - Country
   - Shape
 ## Results
-How to perform a search
+The way that a user can search through the website is by manipulating the filters in order to get the information that they would like to search, 
